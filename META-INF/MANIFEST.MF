@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.8.6
+Built-By: greg
+Build-Jdk: 17.0.9
+Main-Class: com.essexboy.App
+
